@@ -1,0 +1,81 @@
+Operators and operands
+
+All blocks are operands, unless fixed to the ground
+Blocks may be operators (transform) or requirements (t/f)
+
+Operations change the position of operands
+Requirements evaluate to true or false
+
+A level is beaten when all requirements evaluate to true
+
+A single operand can be selected (left click)
+An arbitrary number of operators can be selected (left click)
+Operations applied after selection complete (right click)
+
+Operators
+
+Vacuous
+    No movement
+
+Translate
+    Single orthogonal movement
+    Global, possibly less constrained/interesting
+        May equate to WASD
+        Start with arrows of single direction
+
+Leapfrog
+    Move across operator
+
+Reflect
+    Reflect about operator
+
+Rotate
+    Rotate about operator?
+    Rotate in place?
+
+Swap
+    Operand and operator change places
+
+Shoot
+
+Copy
+
+
+Requirements
+
+No orthogonal
+Touching n
+
+All orthogonal, no orthogonal, n orthogonal
+n adjacent
+
+
+
+
+Meta-selection?
+Execution blocks?
+
+Operators where the relative positions of the operand and operator don't matter are perhaps less interesting
+Requirements that are global are perhaps less interesting
+
+Modifier
+    Modifies the next operator?
+    x2, x3, etc
+
+
+// Strange Conduits
+// A Passing Light
+// A Quickening Light
+// Packaged Light
+// A Weight of Light
+// Bottled Light
+// Blinding Radius
+// Disc, wheel, encircle
+// Squaring the circle
+// The Limit
+// Sphere of influence
+// Rolling Light
+// Phosphor
+// Lithopedion
+// Interior lighting
+// Quickened stone
